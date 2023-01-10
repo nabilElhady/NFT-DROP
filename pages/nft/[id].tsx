@@ -63,7 +63,7 @@ function NFTDropPage() {
           <h1 className="text-3xl font-bold lg:text-5xl font-extrabold">
             SUPER NFT Drop
           </h1>
-          <p className="pt-2 text-xl text-green-500">NFT's claimed</p>
+          <p className="pt-2 text-xl text-green-500">NFTs claimed</p>
         </div>
         {/* mintbutton */}
         <button className="h-16 w-full text-white rounded-full bg-red-500 font-bold">
